@@ -14,7 +14,7 @@ using System.Management;
 [assembly: AssemblyTitle("Auto Close ACT")]
 [assembly: AssemblyDescription("避免重复运行ACT，当游戏关闭时自动安全的关闭ACT")]
 [assembly: AssemblyCompany("MapleRecall")]
-[assembly: AssemblyVersion("192.168.1.3")]
+[assembly: AssemblyVersion("192.168.1.4")]
 
 namespace AutoClose_Plugin
 {
